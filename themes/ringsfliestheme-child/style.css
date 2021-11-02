@@ -12,3 +12,12 @@ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, access
 Text Domain:  ringsfliesthemechild
 */
 
+body {
+    background-color:#EBEEF2;
+}
+
+.menu-item:hover {
+    background-color: #00E8FF;
+    border-radius: 25px;
+    opacity: 65%;
+}
